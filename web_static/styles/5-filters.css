@@ -23,14 +23,18 @@ section.filters div.locations, section.filters div.amenities {
     height: 100%;
     width: 25%;
     border-right: 1px solid #DDDDDD;
+    text-align: center;
     
 }
 div.locations h3, div.amenities h3  {
     font-weight: 600;
     margin-bottom: 0px;
+    margin: 2px auto;
+    
 }
 div.locations h4, div.amenities h4 {
     font-weight: 400;
     font-size: 14px;
-    margin: 2px auto;
+    margin: 4px auto;
+    
 }
